@@ -19,7 +19,7 @@ Algumas perguntas respondidas no Dasboard:
 
 ## Conjunto de Dados
 
-Os dados foram retirados de um Dataset do Kaggle: (https://www.kaggle.com/knightbearr/sales-product-data) 
+Os dados foram retirados de um dataset do [Kaggle](https://www.kaggle.com/knightbearr/sales-product-data) 
 
 * ```Order ID``` - ID do Pedido
 * ```Product``` - Nome do Produto Vendido
